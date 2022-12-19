@@ -161,7 +161,7 @@ p {
   color: var(--color-text);
 } */
 
-/* Main */
+/*----------------- Main--------------------- */
 
 .hero {
   text-align: center;
@@ -224,7 +224,7 @@ p {
   border-radius: 4px;
 }
 
-/* Second section */
+/*--------------------- Second section------------------- */
 
 .hide {
   position: absolute;
@@ -277,7 +277,7 @@ p {
   height: 64px;
 }
 
-/* Section What are we doing */
+/*-------------------- Section What are we doing-------------- */
 
 .doing {
   padding-bottom: 120px;
@@ -303,7 +303,7 @@ p {
   margin-right: 24px;
 }
 
-/* Our Team */
+/*------------------------ Our Team------------------ */
 
 .photo {
   display: block;
@@ -391,7 +391,7 @@ p {
   height: 16px;
 }
 
-/* ----------------Customers----------------*/
+/* -----------------------Customers--------------------*/
 
 .customers-section {
   padding-bottom: 120px;
@@ -438,7 +438,7 @@ p {
   height: 56 px;
 }
 
-/* ------------------Footer---------------- */
+/* ------------------------Footer-------------------- */
 
 .footer {
   background-color: var(--color-dark);
